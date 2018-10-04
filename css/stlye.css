@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(1, 9, 12);
+}
+h1 {
+    color:rgba(184, 184, 211, 0.541);
+}
+h2 {color: yellow;
+    font-size: 24px;
+font-family: Vollkorn,-apple-system,BlinkMacSystemFont,Georgia,Times New Roman,Times,serif;
+ font-weight: 400;
+
+}
+
+
+p{
+    color:rgb(158, 150, 150);
+    text-align: left;
+}
+h1 {
+    background-color: rgb(5, 12, 5);
+    padding: 10px 100px;
+  }
+  h1 { text-align: left;}
+
+  .banner__greeting{
+      text-align: center;
+  }
+
+
+  .img-circle {
+    border-radius: 50%;
+    margin-left: 520px
+    
+    
+}
+
+.project-list__content{
+    margin-left: 20px
+}
+.section__title{text-align: center;
+                display: block;
+                font-weight: 700;
+                line-height: 70,5px;
+                box-sizing: border-box;
+                color: rgb(158, 150, 150);
+                margin-bottom: 16px;
+                font-size: 47px
+
+
+}
+
+
+.azukile{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+.project-display {
+    width: 33%;
+    display: inline-block;
+}
+.second {
+    width: 25%;
+    display: inline-block;
+
+}
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+  
+  .currently-listening-img { 
+      width: 100%;
+  }
+  .currently{
+      width: 24%;
+      display: inline-block;
+      text-align: center;
+    
+
+}
+.footer{font-size: 20px;
+        color: yellow;
+        cursor: pointer;
+        display: inline-block;
+        font-family: Vollkorn,-apple-system,BlinkMacSystemFont,Georgia,Times New Roman,Times,serif;
+        box-sizing: border-box;
+        height: auto;
+        line-height: 30px;
+        text-decoration-color: rgb(255, 255, 51);
+        
+        
+        
+
+}
